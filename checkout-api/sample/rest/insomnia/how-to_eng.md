@@ -47,7 +47,7 @@ This is temporary. We eill correct it.
    * fulfilling the request, you will get a visual representation of what request is sent, what response is returned, etc.;
    * You can change the request if necessary.
  * At each step there is help on the "Docs" tab and the necessary links.
- * Notifications of changes in order status are received on [URL for notifications](/checkout-api/031-01%20url%20для%20уведомлений.md),but you won’t see them, because it is general, closed, so the status of the order in this public store must be requested through [status request](https://checkout.yandex.com/developers/api#capture_payment).
+ * Notifications of changes in order status are received on [URL for notifications](/checkout-api/031-01%20url%20for%20notification.md),but you won’t see them, because it is general, closed, so the status of the order in this public store must be requested through [status request](https://checkout.yandex.com/developers/api#capture_payment).
  * **No registration required**, everything works out of the box.
 
 ---
